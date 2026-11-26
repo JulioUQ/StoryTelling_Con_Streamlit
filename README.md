@@ -1,6 +1,19 @@
-# StoryTelling_Con_Streamlit
+# Visualización · Cancelaciones de reservas hoteleras
 
-## Planteamiento
+Proyecto académico que analiza las cancelaciones de reservas en Portugal y comunica los patrones mediante una narrativa visual en Streamlit.
+
+## Tecnologías
+
+Streamlit, Python y R
+
+## Explorar el repositorio
+
+- [`1. Datos`](./1.%20Datos)
+- [`3. Presentacion y video`](./3.%20Presentacion%20y%20video)
+
+## Documentación
+
+#### Planteamiento
 
 Esta actividad tiene por objetivo narrar una historia a través de los datos, incluyendo la extracción de conocimiento del conjunto de datos a explorar mediante un análisis visual. A partir de un conjunto de datos proporcionado, se realiza una primera inspección del mismo usando diferentes técnicas de visualización de datos, tanto para detectar y corregir problemas (como la presencia de outliers), como para plantearse preguntas interesantes a responder mediante una visualización de tipo narrativo, lo que se conoce como storytelling.
 
@@ -14,7 +27,7 @@ La combinación de un análisis exploratorio de datos con la narración de histo
 
 ---
 
-## Competencias
+#### Competencias
 
 ● CB9- Que los estudiantes sepan comunicar sus conclusiones –y los conocimientos y  
 razones últimas que las sustentan– a públicos especializados y no especializados de  
